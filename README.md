@@ -1,13 +1,13 @@
 # EDA – Dataset de Vuelos (Planes)
 *Exploratory Data Analysis & visual storytelling*
 
-EDA del dataset de vuelos (India, 2019). Basado en ejercicios de **DataCamp** 
+EDA del dataset de vuelos (India, 2019). Basado en ejercicios de *DataCamp*
 y extendido con pasos propios de limpieza, feature engineering y visualizaciones.
 
 ---
 
 **English summary:**  
-Exploratory Data Analysis of a flights dataset (India, 2019). Based on **DataCamp** exercises  
+Exploratory Data Analysis of a flights dataset (India, 2019). Based on *DataCamp* exercises  
 and extended with additional cleaning, feature engineering, and visualizations.
 
 ## Contenido
