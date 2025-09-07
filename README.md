@@ -28,10 +28,10 @@ and extended with additional cleaning, feature engineering, and visualizations.
 - Los precios tienden a aumentar con la duración y el número de escalas.  
 
 ## Cómo usar
-1. Descargar el notebook.  
-2. Ejecutar en Jupyter Notebook o Google Colab.  
-   - El dataset `planes.csv` está incluido en la carpeta `data/`.  
-   - Asegurarse de mantener la estructura de carpetas al ejecutar el notebook.  
+1. Clonar o descargar el repositorio completo.  
+2. Ejecutar el notebook en Jupyter Notebook o Google Colab.  
+   - El dataset `planes.csv` se encuentra en la carpeta `data/`.  
+   - No modificar la ubicación del archivo ni del notebook para que las rutas funcionen correctamente.
 
 ## Licencia
 MIT License
