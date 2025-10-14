@@ -1,16 +1,19 @@
-# --- Sistema (ruido de OS) ---
+# ==========================================================
+# EDA_Aircraft_Dataset - .gitignore
+# ==========================================================
+
+# --- System noise ---
 .DS_Store
 Thumbs.db
 
-# --- Python básico ---
+# --- Python cache ---
 __pycache__/
 *.py[cod]
-*.pyo
 
-# --- Jupyter Notebooks ---
+# --- Jupyter notebooks ---
 .ipynb_checkpoints/
 
-# --- Entornos (no versionar) ---
+# --- Virtual environments & credentials ---
 .venv/
 venv/
 ENV/
@@ -18,16 +21,21 @@ env/
 .env
 *.env
 
-# --- VS Code (opcional) ---
-# .vscode/
+# --- Logs ---
+logs/
+*.log
 
-# --- Datos (elige tu política) ---
-# Si NO querés subir datasets, descomentá:
+# --- VS Code & IDEs ---
+.vscode/
+.idea/
+
+# --- Data policy ---
+# Uncomment if you don't want to upload datasets
 # data/
 # *.csv
 # *.parquet
 # *.xlsx
 
-# --- Artefactos opcionales (si los generás) ---
+# --- Optional artifacts (reports, figures, etc.) ---
 # reports/
 # figures/
