@@ -12,18 +12,20 @@ Based on DataCamp exercises and extended with additional cleaning, feature engin
 
 ---
 
+## 🧰 Stack Tecnológico
+- **Lenguaje:** Python 3.11  
+- **Librerías:** Pandas, NumPy  
+- **Visualización:** Seaborn, Matplotlib  
+- **Entorno:** Jupyter Notebook / Google Colab
+
+---
+
 ## 📘 Contenido
 1. **Notebook principal:** `EDA_Planes_dataset.ipynb`
 2. **Variables derivadas:**
    - `Duration_minutes`
    - `Duration_category`
    - `Total_Stops_num`
-
----
-
-## 🧰 Herramientas utilizadas
-- **Python:** Pandas, NumPy  
-- **Visualización:** Seaborn, Matplotlib
 
 ---
 
@@ -58,5 +60,7 @@ pip install -r requirements.txt
 ---
 
 ✍️ **Autor:** Elías Fernández  
-📧 **Contacto:** fernandezelias86@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/eliasfernandez208
+📧 **Contacto:** [fernandezelias86@gmail.com](mailto:fernandezelias86@gmail.com)  
+🔗 **LinkedIn:** [www.linkedin.com/in/eliasfernandez208](https://www.linkedin.com/in/eliasfernandez208)
+
+📁 **Repositorio:** EDA_Flights_Planes  
