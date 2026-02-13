@@ -55,14 +55,16 @@ pip install -r requirements.txt
 ---
 
 ## 🪪 Licencia
-**MIT License**
+Este proyecto se distribuye bajo la licencia MIT.  
+Ver archivo [LICENSE](LICENSE).
 
 ---
 
-✍️ **Autor:** Elías Fernández  
-📧 **Contacto:** [fernandezelias86@gmail.com](mailto:fernandezelias86@gmail.com)  
+## ✍️ Autor
+**Elías Fernández**
+
+---
+
+## 📫 Contacto
+📧 [fernandezelias86@gmail.com](mailto:fernandezelias86@gmail.com)  
 🔗 LinkedIn: [Perfil](https://www.linkedin.com/in/eliasfernandez208)
-
----
-
-📁 **Repositorio:** EDA_Flights_Planes
